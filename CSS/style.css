@@ -1,0 +1,33 @@
+/* Google fonts relation */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Primary Styles */
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.panda-btn-buy-now{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+/* Slider Section styles */
+.panda-bg-info{
+    background-color: #fceae8;
+}
+/* Categories section */
+.cata-1{
+    background-color: #ffa500;
+}
+.cata-2{
+    background-color: #da70d6;
+}
+.cata-3{
+    background-color: #000ffa;
+}
+
+/* Phone section */
